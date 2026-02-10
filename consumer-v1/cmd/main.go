@@ -5,7 +5,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"study/consumer/internal/adapters/kafkaconsumer"
+	"study/consumer-v1/internal/adapters/kafkaconsumer"
 
 	"github.com/sirupsen/logrus"
 )
