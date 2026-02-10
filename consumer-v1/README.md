@@ -1,1 +1,1 @@
-Read all topics.
+Read all partitions.
