@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"study/producer/internal/adapters/kafkaproducer"
+	"study/producer-v1/internal/adapters/kafkaproducer"
 )
 
 var (

@@ -1,0 +1,1 @@
+The partition number will be determined automatically, by key.
